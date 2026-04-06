@@ -1,5 +1,8 @@
 # e-plantShopping 🌱
 
+## Live Demo
+👉 https://donwilson-dev.github.io/e-plantShopping/
+
 ## 📌 Project Overview
 
 **e-plantShopping** is a web-based application that allows users to browse and select a variety of plants for purchase. The app provides an interactive shopping experience where users can view plant details, add items to a cart, and manage their selections efficiently.
